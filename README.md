@@ -1,9 +1,9 @@
 
-# Hi lods
+# What's up? (the ceilling 😋)
 
 <br />
 
-- 👋 I’m Robbie aka zatrodev
+- 👋 Hi! I’m Robbie aka zatrodev
 - 👀 I’m interested in developing various software applications and AI
 - 🌱 I’m currently learning integration of database in applications
 - ✨ Currently knows C, C++, C#, Python, Javascript, Web Development and ML
