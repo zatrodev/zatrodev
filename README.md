@@ -1,9 +1,8 @@
 
-# What's up? (the ceilling 😋)
+# Hey
 
 <br />
 
-- 👋 Hi! I’m Robbie aka zatrodev
 - 👀 I’m interested in developing various software applications and AI
 - 🌱 I’m currently learning integration of database in applications
 - ✨ Currently knows C, C++, C#, Python, Javascript, Web Development and ML
