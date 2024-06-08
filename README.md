@@ -12,8 +12,3 @@
 <p align="center"><a href="https://github.com/zatrodev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatrodev&layout=compact&theme=jolly" />
 </a></p>
-<br>
-<p align="center"><a href="https://github.com/zatrodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zatrodev&show_icons=true&theme=jolly" />
-</a></p>
-<br>
