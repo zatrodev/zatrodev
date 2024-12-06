@@ -4,8 +4,8 @@
 <br />
 
 - 👀 I’m interested in developing various software applications and AI
-- 🌱 I’m currently learning integration of database in applications
-- ✨ Currently knows C, C++, C#, Python, Javascript, Web Development and ML
+- 🌱 I’m currently learning Android Development particularly Native Android with Jetpack Compose.
+- ✨ Currently knows C, C++, C#, Python, Javascript, Kotlin, Web Development and ML
 
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zatrodev&label=Profile%20views&color=0e75b6&style=flat" alt="zatrodev" /> </p>
